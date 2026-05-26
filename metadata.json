@@ -1,0 +1,6 @@
+{
+  "name": "IKO ICO Platform",
+  "description": "Premium multi-section cryptocurrency ICO landing and participation dashboard with custom calculators, schedules, and live progress indicators",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
